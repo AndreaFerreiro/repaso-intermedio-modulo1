@@ -1,0 +1,15 @@
+.iconsfooter{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 2rem 3rem;
+    align-items: center;
+}
+
+.copyright{
+    width: 20vw;
+    margin: 0;
+}
+.footertext{
+    position: static;
+}
